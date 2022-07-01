@@ -6,11 +6,7 @@
 ## 🔑 Keylogger
 It is a keylogger that uses **DirectInput** and **IOCP's Overlapped I/O network model** and **minimizes the use of threads** to show ***high speed***.
 
- 💖  Thank you ! 💖   
- 
- <br></br>
-# 📋 How to Use? 📋  
-TimeLimiter.exe (limited year) (limited month) (limited day) (limited hour)  (limited minute)  (limited second)  
+ 💖  Thank you ! 💖    
 
 
 <br></br>

@@ -1,0 +1,85 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Keylogger",
+					"jsonFile" : "directory-Keylogger-Debug-65c6018c76c978d2af0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Keylogger",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Keylogger",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "KeyloggerClient::@d03fd3f0da0e4a7fdf63",
+					"jsonFile" : "target-KeyloggerClient-Debug-c1baba886c24c89ac8bf.json",
+					"name" : "KeyloggerClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "KeyloggerServer::@d03fd3f0da0e4a7fdf63",
+					"jsonFile" : "target-KeyloggerServer-Debug-e809c5b4adab48beaeaa.json",
+					"name" : "KeyloggerServer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger/out/build/x64-debug",
+		"source" : "C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

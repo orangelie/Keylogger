@@ -1,0 +1,6 @@
+C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger/out/build/x64-debug/Keylogger/CMakeFiles/KeyloggerClient.dir
+C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger/out/build/x64-debug/Keylogger/CMakeFiles/KeyloggerServer.dir
+C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger/out/build/x64-debug/Keylogger/CMakeFiles/edit_cache.dir
+C:/Users/parksangwo/Desktop/Github/Keylogger/Keylogger/out/build/x64-debug/Keylogger/CMakeFiles/rebuild_cache.dir
